@@ -1,0 +1,15 @@
+package be.snife.mapstruct;
+
+public class MapStructMain {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		User user = new User("Sven","De Smit","svsm@inno.com");
+		UserCommand uc = UserMapper.INSTANCE.updateUserToCommand(user);
+		
+		System.out.println("My command object = "+uc);
+
+	}
+
+}

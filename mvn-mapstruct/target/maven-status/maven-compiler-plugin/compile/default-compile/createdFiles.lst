@@ -1,0 +1,5 @@
+be\snife\mapstruct\UserMapperImpl.class
+be\snife\mapstruct\UserMapper.class
+be\snife\mapstruct\User.class
+be\snife\mapstruct\UserCommand.class
+be\snife\mapstruct\MapStructMain.class

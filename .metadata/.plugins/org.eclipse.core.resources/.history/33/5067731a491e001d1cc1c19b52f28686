@@ -1,0 +1,16 @@
+package be.snife.mapstruct;
+
+import org.mapstruct.Mapper;
+
+import org.mapstruct.MappingTarget;
+import org.mapstruct.ReportingPolicy;
+
+@Mapper(unmappedTargetPolicy = ReportingPolicy.IGNORE)
+public interface UserMapper {
+	
+	UserCommand updateUserToCommand(User user, @MappingTarget UserCommand userCommand);
+	
+	User updateCammandToUser(UserCommand userCommand, @MappingTarget User user);
+
+	
+}

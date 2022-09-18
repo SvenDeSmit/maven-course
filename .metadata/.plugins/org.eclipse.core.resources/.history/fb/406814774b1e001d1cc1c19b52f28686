@@ -1,0 +1,13 @@
+package be.snife.mapstruct;
+
+import lombok.Data;
+import lombok.Getter;
+
+@Data
+public class User {
+
+	private String firstName;
+	private String lastName;
+	private String email;
+	
+}

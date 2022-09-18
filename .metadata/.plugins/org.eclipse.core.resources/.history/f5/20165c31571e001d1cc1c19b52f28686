@@ -1,0 +1,12 @@
+package be.snife;
+
+
+public class TestHelloWorldTest {
+
+	public void test() {
+		
+		TestHelloWorld thw = new TestHelloWorld();
+		assert("Hello World".equals(thw.getHello()));
+	}
+
+}

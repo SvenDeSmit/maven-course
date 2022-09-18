@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="lombok.Builder"/>
+    <fullyQualifiedTypeName name="lombok.Getter"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="org.mapstruct.Mapper"/>
+    <fullyQualifiedTypeName name="org.mapstruct.ReportingPolicy"/>
+    <fullyQualifiedTypeName name="org.mapstruct.Mapping"/>
+    <fullyQualifiedTypeName name="org.mapstruct.MappingTarget"/>
+    <fullyQualifiedTypeName name="org.mapstruct.factory.Mappers"/>
+    <fullyQualifiedTypeName name="be.snife.mapstruct.User"/>
+    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
+    <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
+    <fullyQualifiedTypeName name="be.snife.mapstruct.UserMapper"/>
+    <fullyQualifiedTypeName name="be.snife.mapstruct.UserCommand"/>
+    <fullyQualifiedTypeName name="be.snife.TestHelloWorld"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
+</qualifiedTypeNameHistroy>

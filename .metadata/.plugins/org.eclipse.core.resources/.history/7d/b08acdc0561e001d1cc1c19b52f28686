@@ -1,0 +1,14 @@
+package be.snife;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class TestHelloWorldTest2 {
+
+	@Test
+	void testGetHello() {
+		fail("Not yet implemented");
+	}
+
+}
